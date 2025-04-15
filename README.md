@@ -27,7 +27,7 @@ Check out the live demo on [GitHub Pages](https://klarencekpis.github.io/Newton-
 ## 🧰 Tools and Technologies:
 - **Languages:** HTML, CSS, JavaScript
 - **Financial Data:** **S&P500 Historical Data** (monthly closing prices)
-- **Charting:** [Chart.js](https://www.chartjs.org/) for S&P500 visualization
+- **Charting:** [TradingView Widget](https://www.tradingview.com/widget/) for S&P500 visualization
 - **Methodology:** **Newton's Interpolation Polynomial**
 
 ---
