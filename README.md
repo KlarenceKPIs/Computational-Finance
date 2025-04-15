@@ -8,6 +8,9 @@ A collection of **numerical methods** and **computational techniques** applied t
 
 A web-based **Newton's Interpolation Polynomial** calculator built with **HTML**, **CSS**, and **JavaScript**. This tool performs interpolation on **S&P500 historical data** and allows users to input custom data points for financial analysis.
 
+#### Demo:
+Check out the live demo on [GitHub Pages](https://klarencekpis.github.io/Newton-s-Interpolating-Polynomial/).
+
 - **Predefined Dataset:** Historical S&P500 data points (monthly closing prices).
 - **User-defined Dataset:** Input your own data points for interpolation.
 - **Features:** 
@@ -18,9 +21,6 @@ A web-based **Newton's Interpolation Polynomial** calculator built with **HTML**
 - Uses **S&P500** historical data as a foundation for interpolation.
 - Can be applied to **market trend forecasting** or **missing data estimation** in financial datasets.
 - **Interactive chart** for visual analysis of financial trends.
-
-#### Demo:
-Check out the live demo on [GitHub Pages](https://klarencekpis.github.io/Newton-s-Interpolating-Polynomial/).
 
 ---
 
