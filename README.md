@@ -22,8 +22,7 @@ Check out the live demo on [GitHub Pages](https://klarencekpis.github.io/Newton-
 - Can be applied to **market trend forecasting** or **missing data estimation** in financial datasets.
 - **Interactive chart** for visual analysis of financial trends.
 
-#### Source Code: 
-[Source Code Repository](https://github.com/KlarenceKPIs/Newton-s-Interpolating-Polynomial)
+#### Source Code: [Source Code Repository](https://github.com/KlarenceKPIs/Newton-s-Interpolating-Polynomial)
 ---
 
 ## 🧰 Tools and Technologies:
