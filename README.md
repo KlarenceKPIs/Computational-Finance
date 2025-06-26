@@ -12,9 +12,10 @@ This project implements a **momentum investing strategy** using historical stock
 Check this project out on [This Repository](https://github.com/KlarenceKPIs/momentum-strategy).
 
 ### Disclaimer
-
 This project is for educational purposes only. It is not financial advice. Historical performance does not guarantee future results.
+
 ---
+
 ## 2. **Newton's Interpolation Polynomial (S&P500)**
 
 A web-based **Newton's Interpolation Polynomial** calculator built with **HTML**, **CSS**, and **JavaScript**. This tool performs interpolation on **S&P500 historical data** and allows users to input custom data points for financial analysis.
