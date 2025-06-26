@@ -4,6 +4,61 @@ A collection of **numerical methods** and **computational techniques** applied t
 
 ## 🧑‍💻 Projects in This Repo:
 
+#### 1. 📈 Momentum-Based Stock Strategy
+
+This project implements a **momentum investing strategy** using historical stock data from the S&P 500. It ranks stocks based on their past 6-month performance (excluding the most recent month), selects the top 20 each month, and simulates a portfolio that rebalances monthly.
+
+#### Repository:
+Check out the project on [GitHub Pages](https://github.com/KlarenceKPIs/momentum-strategy).
+---
+
+## 🔧 Tools & Technologies
+
+- **Python**, **Pandas**, **NumPy**, **Matplotlib**
+- **yfinance** for price data
+- **Google Colab** + **Google Drive** (project environment)
+- **Power BI** (for optional visualization)
+- **GitHub** for version control
+---
+## 🧠 Strategy Logic
+
+For each month from 2010 to 2024:
+
+1. Compute 6-month return for each stock (skip the most recent month)
+2. Rank all stocks by this momentum score
+3. Select the **top 20 stocks**
+4. Buy and hold them for 1 month
+5. Repeat monthly
+
+The strategy is benchmarked against **SPY (S&P 500 ETF)** for comparison.
+
+---
+
+## 📊 Performance Summary
+
+| Metric              | Momentum Strategy | SPY (Benchmark) |
+|---------------------|------------------:|----------------:|
+| Annualized Return   |        Higher   |     Lower     |
+| Volatility          |        Moderate    |     Lower       |
+| Sharpe Ratio        |        > 1.0    |     < 1.0     |
+| Max Drawdown        |        Higher      |     Lower       |
+
+> ⚠️ This backtest does not include transaction costs or slippage.
+
+---
+
+## 📈 Sample Output
+
+![Cumulative Returns](momentum-strategy/results/momentum_vs_spy_chart.png)  
+*Momentum strategy vs benchmark (SPY), 2010–2024*
+
+---
+## Disclaimer
+
+This project is for educational purposes only. It is not financial advice. Historical performance does not guarantee future results.
+
+
+
 ### 1. **Newton's Interpolation Polynomial (S&P500)**
 
 A web-based **Newton's Interpolation Polynomial** calculator built with **HTML**, **CSS**, and **JavaScript**. This tool performs interpolation on **S&P500 historical data** and allows users to input custom data points for financial analysis.
