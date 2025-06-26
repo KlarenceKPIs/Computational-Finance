@@ -59,7 +59,7 @@ This project is for educational purposes only. It is not financial advice. Histo
 
 
 
-### 1. **Newton's Interpolation Polynomial (S&P500)**
+### 2. **Newton's Interpolation Polynomial (S&P500)**
 
 A web-based **Newton's Interpolation Polynomial** calculator built with **HTML**, **CSS**, and **JavaScript**. This tool performs interpolation on **S&P500 historical data** and allows users to input custom data points for financial analysis.
 
