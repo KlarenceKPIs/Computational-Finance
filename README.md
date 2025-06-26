@@ -9,7 +9,7 @@ A collection of **numerical methods** and **computational techniques** applied t
 This project implements a **momentum investing strategy** using historical stock data from the S&P 500. It ranks stocks based on their past 6-month performance (excluding the most recent month), selects the top 20 each month, and simulates a portfolio that rebalances monthly.
 
 #### Repository:
-Check out the project on [GitHub Pages](https://github.com/KlarenceKPIs/momentum-strategy).
+Check this project out on [This Repo](https://github.com/KlarenceKPIs/momentum-strategy).
 ---
 
 ## 🔧 Tools & Technologies
@@ -49,7 +49,7 @@ The strategy is benchmarked against **SPY (S&P 500 ETF)** for comparison.
 
 ## 📈 Sample Output
 
-![Cumulative Returns](momentum-strategy/results/momentum_vs_spy_chart.png)  
+![Cumulative Returns](https://github.com/KlarenceKPIs/momentum-strategy/blob/main/momentum-strategy/results/momentum_vs_spy_chart.pngg)  
 *Momentum strategy vs benchmark (SPY), 2010–2024*
 
 ---
